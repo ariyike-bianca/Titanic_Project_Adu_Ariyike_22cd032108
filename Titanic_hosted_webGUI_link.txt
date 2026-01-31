@@ -2,5 +2,5 @@ Name: Adu Ariyike
 Matric Number: 22CD032108
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: 
+Live URL: https://titanic-project-9le5.onrender.com
 GitHub Repository: https://github.com/ariyike-bianca/Titanic_Project_Adu_Ariyike_22cd032108
